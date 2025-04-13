@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<a><img src='https://raw.githubusercontent.com/kashmiricrasher/KASHMIRI-MD/refs/heads/main/lib/kashmiri.jpg/></a>
+<a><img src='https://raw.githubusercontent.com/kashmiricrasher/KASHMIRI-MD/refs/heads/main/lib/kashmiri.jpg'/></a>
 <h1 align="center"> KASHMIRI-MD </h1> 
 <p align="center">KASHMIRI-MD made for people, on Earth </p>
 
