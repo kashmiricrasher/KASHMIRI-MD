@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=AWAIS-MD-BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=KASHMIRI-MD-BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Awais-star-a11y">
+  <a href="https://github.com/kashmiricrasher/KASHMIRI-MD">
     <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KASHMIRI-MD+MultiDevice;Developed+by+KASHMIRI;Give+star+and+forks+this+Repo+🌟" alt="KASHMIRIReadme">
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 1. Link your WhatsApp by [`PAIR CODE`](https://awais-md-pair.onrender.com)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Awais-star-a11y/AWAIS-MD-V3)
+3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/kashmiricrasher/KASHMIRI-MD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
