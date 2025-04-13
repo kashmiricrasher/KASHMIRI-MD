@@ -37,7 +37,7 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://awais-md-pair.onrender.com)
+1. Link your WhatsApp by [`PAIR CODE`](https://kashmiri-md-7ea43326674b.herokuapp.com/pair)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/kashmiricrasher/KASHMIRI-MD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
