@@ -10,7 +10,7 @@ cmd({
     react: "✅",
     desc: "Pairing code",
     category: "download",
-    use: ".pair ++923477868XXX",
+    use: ".pair +92325xxxxxxx",
     filename: __filename
 }, 
 async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
@@ -25,7 +25,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://awais-md-pair.onrender.com/code?number=${q}`);
+        const response = await fetch(`https://kashmiri-md-7ea43326674b.herokuapp.com/pair?number=${q}`);
         const pair = await response.json();
 
         // Check for errors in response
