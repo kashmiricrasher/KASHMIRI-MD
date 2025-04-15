@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO KASHMIRI-MD PLUGINS LIST CREATED BY KASHMIRI 237***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
