@@ -25,7 +25,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://kashmiri-md-7ea43326674b.herokuapp.com/code?number=${q}}`);
+        const response = await fetch(`https://kashmiri-md-774f26e4566a.herokuapp.com//code?number=${q}}`);
         const pair = await response.json();
 
         // Check for errors in response
